@@ -13,6 +13,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'font-awesome-rails'
+gem 'jquery-rails'
+gem 'therubyracer'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
